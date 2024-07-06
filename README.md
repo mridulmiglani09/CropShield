@@ -24,10 +24,10 @@ The model was trained using the Adam optimizer with a categorical cross-entropy 
 ## Evaluation
 The model's performance was evaluated using:
 
--**Accuracy**: Achieved an impressive accuracy of 97%.
--**Confusion Matrix**: Detailed breakdown of prediction results.
--**Precision, Recall, F1-Score**: For a comprehensive performance understanding.
--**ROC-AUC Score**: To evaluate class distinction capability.
+- **Accuracy**: Achieved an impressive accuracy of 97%.
+- **Confusion Matrix**: Detailed breakdown of prediction results.
+- **Precision, Recall, F1-Score**: For a comprehensive performance understanding.
+- **ROC-AUC Score**: To evaluate class distinction capability.
 
 ## Results
 The model demonstrated robust performance across various plant disease categories, achieving a 97% accuracy. Detailed evaluation metrics and prediction visualizations are included in the results section.
