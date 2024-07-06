@@ -1,7 +1,8 @@
 # Plant-Disease-Classification
 Plant Disease Detection using GoogLeNet 
+
 Project Overview
-This project aims to develop a robust deep learning model for detecting plant diseases using image data. Leveraging the power of GoogLeNet architecture, the model can classify images of plants into 38 different categories, including various diseases and healthy conditions.
+This project aims to develop a robust deep-learning model for detecting plant diseases using image data. Leveraging the power of GoogLeNet architecture, the model can classify images of plants into 38 different categories, including various diseases and healthy conditions.
 
 Dataset
 The dataset used for this project is the New Plant Diseases Dataset (Augmented), sourced from Kaggle. It consists of a diverse collection of plant images classified into 38 categories. The data is split into training, validation, and test sets to ensure effective model evaluation.
