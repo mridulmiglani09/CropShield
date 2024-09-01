@@ -1,4 +1,4 @@
-# Plant Disease Detection using GoogLeNet
+# CropShield using GoogLeNet
 
 ## Project Overview
 This project develops a deep learning model for detecting plant diseases using image data, leveraging the GoogLeNet (Inception v1) architecture to classify images into 38 categories, including various diseases and healthy conditions.
